@@ -6,4 +6,4 @@ An easy React Native App for practicing!
 
 ## Screenshot
 
-![Screenshot](https://github.com/nerdjfpb/todo-react-native/blob/main/todoScreenshot)
+![Screenshot](https://github.com/nerdjfpb/todo-react-native/blob/main/todoScreenshot.png)
